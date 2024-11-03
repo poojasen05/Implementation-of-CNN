@@ -130,12 +130,13 @@ training_history = model.fit(training_images, training_labels, epochs=10, callba
 ```
 ## OUTPUT
 ### Reshape and Normalize output
+![Screenshot 2024-11-03 212206](https://github.com/user-attachments/assets/0e5ec890-5d92-4dd8-980c-f600ceb6919a)
 
-![image](https://github.com/user-attachments/assets/f024a488-c003-49bb-92e0-7a3514fc475f)
 
 ### Training the model output
 
-![image](https://github.com/user-attachments/assets/6904b3ae-42ee-4322-89ec-ecb9e2bb10ef)
+![Screenshot 2024-11-03 212348](https://github.com/user-attachments/assets/4d71ee7b-9a5d-4c4e-9c51-4271ffc9a0d8)
+
 
 ## RESULT
 Thus the program for developing a convolutional deep neural network for digit classification.
